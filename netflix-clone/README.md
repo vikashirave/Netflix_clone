@@ -1,3 +1,14 @@
+
+TMDB API
+API key-
+e985ee303812203f0f4a8155c96393ac
+
+API request- https://api.themoviedb.org/3/movie/550?api_key=e985ee303812203f0f4a8155c96393ac
+
+API Read Access Token-eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlOTg1ZWUzMDM4MTIyMDNmMGY0YTgxNTVjOTYzOTNhYyIsInN1YiI6IjVmZmViNDVlN2Q1ZGI1MDAzY2M4OTcxOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Kk_MrWtn5umV1jCVhhoUPbkEAinbAyUAEXdsC5d8njE
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
