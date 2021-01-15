@@ -1,4 +1,4 @@
-import axios from '..src/axios';
+import axios from '../node_modules/axios/dist/axios';
 
 
 /** base url to make requests to the movie database **/
