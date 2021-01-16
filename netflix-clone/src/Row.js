@@ -9,12 +9,13 @@ useEffect(() => {
 // //if [], run once when the row loads, and dont run  again
     async function fetchData() {
     const request = await axios.get(fetchUrl);
-    setMovies(request.data.results);
+    console.log(request);
+    //setMovies(request.data.results);
     return request;
    }
     fetchData();
 
- }, [fetchUrl]);
+}, [fetchUrl]);
     return (
         <div>
           <h2>{title}</h2>

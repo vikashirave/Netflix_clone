@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Row from './Row';
-import axios from './axios';
+//import axios from './axios';
 import requests from './requests';
 
 function App() {
