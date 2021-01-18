@@ -3,12 +3,14 @@ import './App.css';
 import Row from './Row';
 //import axios from './axios';
 import requests from './requests';
+import Banner from './Banner';
 
 function App() {
   return (
     <div className="App">
     {/*Nav*/}
     {/*Banner*/}
+    <Banner />
       <Row 
       title="NETFLIX ORIGINALS" 
       fetchUrl={requests.fetchNetflixOriginals} 
