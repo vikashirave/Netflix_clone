@@ -4,11 +4,13 @@ import Row from './Row';
 //import axios from './axios';
 import requests from './requests';
 import Banner from './Banner';
+import Nav from './Nav';
 
 function App() {
   return (
     <div className="App">
     {/*Nav*/}
+    <Nav />
     {/*Banner*/}
     <Banner />
       <Row 
